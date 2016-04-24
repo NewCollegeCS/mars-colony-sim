@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: da7eb3b0bf0783946842fb0b0a623781
+timeCreated: 1461451146
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Main Chamber
+    21300002: Connection End-to-End
+    21300004: Tube Cap
+    21300006: Connection End-To-Side
+    21300008: Power
+    21300010: Water
+    21300012: Electrolysis
+    21300014: Habitation
+    21300016: Greenhouse
+    21300018: Fitness
+    21300020: Medical
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Main Chamber
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 284
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 77.5}
+        - {x: -65, y: -77.5}
+        - {x: 65, y: -77.5}
+        - {x: 65, y: 77.5}
+    - name: Connection End-to-End
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 303
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 59.5}
+        - {x: -60, y: -59.5}
+        - {x: 60, y: -59.5}
+        - {x: 60, y: 59.5}
+    - name: Tube Cap
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 306
+        width: 54
+        height: 119
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 37.5}
+        - {x: 21, y: 59.5}
+        - {x: 0, y: 59.5}
+        - {x: 0, y: -59.5}
+        - {x: 19, y: -59.5}
+        - {x: 51, y: -40.5}
+        - {x: 54, y: -28.5}
+        - {x: 54, y: 23.5}
+    - name: Connection End-To-Side
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 304
+        width: 75
+        height: 119
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 57.5}
+        - {x: 23, y: 59.5}
+        - {x: 0, y: 59.5}
+        - {x: 0, y: -59.5}
+        - {x: 11, y: -59.5}
+        - {x: 40, y: -49.5}
+        - {x: 75, y: -20.5}
+        - {x: 75, y: 14.5}
+    - name: Power
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 142
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 22.5, y: 24.5}
+    - name: Water
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 142
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 22.5, y: 24.5}
+    - name: Electrolysis
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 142
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 22.5, y: 24.5}
+    - name: Habitation
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 142
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 22.5, y: 24.5}
+    - name: Greenhouse
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 142
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 22.5, y: 24.5}
+    - name: Fitness
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 67
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -24.5, y: -20.5}
+        - {x: -17.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 24.5, y: 23.5}
+        - {x: 22.5, y: 24.5}
+    - name: Medical
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 68
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -22.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 24.5, y: -18.5}
+        - {x: 24.5, y: 14.5}
+        - {x: 20.5, y: 24.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
